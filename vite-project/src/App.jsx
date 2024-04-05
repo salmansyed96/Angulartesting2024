@@ -14,6 +14,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam mollitia molestias dolore eaque impedit eius sed quis iste suscipit iusto.</p>
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi rem alias accusamus hic fugiat saepe veritatis sapiente magnam repellendus. Minus.</p>
+          
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
@@ -31,6 +32,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <div>
+        
+      </div>
     </>
   )
 }
